@@ -2,6 +2,7 @@
 
 ### About Me
 I'm from Delhi, India, and I have a passion for React and JavaScript. Currently, I'm diving into TypeScript and exploring how to build sleek, responsive UIs using Tailwind CSS.
+- Student at @UCSKM
 
 ### Interests
 - 🌱 Learning TypeScript and advanced React patterns
