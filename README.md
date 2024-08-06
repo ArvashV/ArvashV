@@ -18,9 +18,9 @@ Feel free to connect with me:
 
 📧 Email: armaanvashishtha968@gmail.com
 
-Pronouns
+### Pronouns
 😄 He/Him
-Fun Fact
+### Fun Fact
 ⚡ I once built a computer from scratch, delving into digital electronics and computer architecture!
 <!---
 ArvashV/ArvashV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
