@@ -19,6 +19,9 @@ Feel free to connect with me:
 
 📧 Email: armaanvashishtha968@gmail.com
 
+### Big ISRO Fanboy 
+![20230910_081553](https://github.com/user-attachments/assets/96b419cd-c305-41bf-9e12-7a7e95adef7b)
+
 ### Pronouns
 😄 He/Him
 ### Fun Fact
